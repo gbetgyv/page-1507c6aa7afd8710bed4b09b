@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "40d88fdf715eb906adecae85",
+  "owner": "gbetgyv",
+  "repo": "page-1507c6aa7afd8710bed4b09b",
+  "title": "502加速器",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "1507c6aa7afd8710bed4b09b",
+      "a": "502加速器",
+      "b": "机场官网线路发布页",
+      "entity": "502加速器",
+      "brand": "502加速器",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "a5b3e6045c12b88b0c9646e86aa9b7530336011a2a35993e6e035e20244bd192",
+      "content": {
+        "primary_entity": "502加速器",
+        "keyword1": "502加速器",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择对应客户端：Windows、macOS、iOS、Android、路由器各有适配版本。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "根据设备数量和流量需求挑一个合适的套餐，先试用再决定长期订阅。",
+          "AI_CLOSING_TITLE": "挑对套餐再出发",
+          "AI_DESCRIPTION": "，面向需要稳定海外网络连接的用户，提供按月或按年订阅的套餐选择。基础版适合个人日常浏览，旗舰版覆盖多设备流媒体与游戏加速，团队版满足小型办公环境的高带宽需求。客户端覆盖主流桌面与移动平台，按设备安装对应客户端并导入订阅即可使用，套餐可随需求灵活调整。",
+          "AI_FAQ_ANSWER_1": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。建议按常用设备数量选择，超出后新增设备需要升级到更高档位。",
+          "AI_FAQ_ANSWER_2": "月付适合短期体验，年付平均每月更低。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长期使用年付更划算。",
+          "AI_FAQ_ANSWER_3": "在对应设备的客户端中新建订阅，粘贴购买后获得的订阅链接并保存。不同客户端菜单名称略有差异，参考客户端内置的导入说明操作即可。",
+          "AI_FAQ_ANSWER_4": "旗舰版配置 IPLC 专线并针对游戏场景优化延迟，团队版提供 VIP 专属高带宽节点。基础版为普通线路节点池，适合网页浏览和基础流媒体。",
+          "AI_FAQ_ANSWER_5": "订阅周期结束前续费即可继续使用，套餐支持从基础版升级到旗舰版或团队版。流量超出当月额度后，可以等下月重置或直接升级套餐。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐能同时登录几台设备？",
+          "AI_FAQ_QUESTION_2": "月付和年付怎么选？",
+          "AI_FAQ_QUESTION_3": "订阅导入客户端后连不上怎么办？",
+          "AI_FAQ_QUESTION_4": "不同版本线路有什么区别？",
+          "AI_FAQ_QUESTION_5": "套餐到期或流量用完了怎么办？",
+          "AI_FAQ_TITLE": "常见使用问题",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度和订阅周期三个维度挑选套餐。",
+          "AI_FEATURES_TITLE": "套餐怎么挑",
+          "AI_FEATURE_TEXT_1": "基础版 3 台、旗舰版 5 台、团队版 20 台，按常用设备选档。",
+          "AI_FEATURE_TEXT_2": "每月 100GB 到 1000GB，按浏览、流媒体或办公需求匹配流量。",
+          "AI_FEATURE_TEXT_3": "年付基础版 ¥150、旗舰版 ¥350、团队版 ¥850，长周期更划算。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "月流量",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选择到使用的准备。",
+          "AI_GUIDE_TITLE": "使用三步",
+          "AI_HERO_INTRO": "502加速器提供基础版、旗舰版和团队版三档订阅，覆盖从个人浏览到多人办公的不同场景。客户端适配主流桌面与移动平台，按设备安装并导入订阅即可开始使用。",
+          "AI_HERO_SUBTITLE": "多档套餐按需选",
+          "AI_HIGHLIGHT_1": "三档套餐，按设备数量灵活选",
+          "AI_HIGHLIGHT_2": "旗舰版含 IPLC 专线游戏优化",
+          "AI_HIGHLIGHT_3": "年付低至月均十余元起",
+          "AI_PLANS_INTRO": "基础版 ¥15/月含 100GB 与 3 台设备；旗舰版 ¥35/月含 300GB、5 台设备与 IPLC 专线；团队版 ¥85/月含 1000GB 与 20 台设备。按年付更优惠。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月流量需求，在基础版、旗舰版、团队版之间选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与套餐设备数上限，准备好对应平台的客户端安装包。",
+          "AI_STEP_TEXT_3": "按客户端文档导入订阅链接，保存后即可开始使用。",
+          "AI_STEP_TITLE_1": "选套餐",
+          "AI_STEP_TITLE_2": "看适配",
+          "AI_STEP_TITLE_3": "配订阅",
+          "AI_VISUAL_TITLE": "多设备稳定连接"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "chrisas.cn",
+    "host": "chrisas.cn"
+  },
+  "file_hashes": {
+    "index.html": "3ae7248099401be1dbacd0b9a46d77fa19f94e680c6631ae0cab21fd2479f318",
+    "sitemap.xml": "cd3027cb7946e0b5e76ee17f351d8332dc035176cdaa0d8bf4d728f673f259ed",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "bb691f8364e3835245b1588e581a39f027dba439018c712de64e474c6b40030d",
+    "robots.txt": "c874047d58137a010d33a27f2e2aef115a6b08bc8d54f60d929160d272d5a5cb",
+    "9b4b917ef6d846bdb636383d3b5df486.txt": "ad999c4360b1fd1ec6d2b2de1491a7c785c54b8ce26268206e34baff2d84d62d"
+  },
+  "revision": "3e8ec04fac058cfad4b1c56bdb84bca5148addbaac0a2aa527d7c767f869251c"
+}
